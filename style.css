@@ -1,4 +1,16 @@
 * body {
     margin-bottom: 0px;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(112, 3, 3);
+}
+h1 {
+    color:white ;
+}
+p {
+    color: rgb(138, 135, 135);
+}
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
 }
